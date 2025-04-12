@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Galacti Quiz: Un quiz amusant pour tester tes connaissances sur l'univers et la conquête spatiale."
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Galacti Quiz</title>
+  </head>
+  <body>
+    <div class="quizz-container">
+      <h1>Galacti Quiz</h1>
+      <h2 id="question"></h2>
+      <div id="choices">
+        <button id="choice1" onclick="checkAnswer(this)"></button>
+        <button id="choice2" onclick="checkAnswer(this)"></button>
+        <button id="choice3" onclick="checkAnswer(this)"></button>
+        <button id="choice4" onclick="checkAnswer(this)"></button>
+      </div>
+      <p id="result"></p>
+      <button id="retryButton" style="display: none">🔄 Recommencer</button>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
