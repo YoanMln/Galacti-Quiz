@@ -27,3 +27,8 @@ Après cette expérience, j'ai eu l'opportunité de rejoindre le **Campus Numér
 - **HTML** : Structure du contenu.
 - **CSS** : Mise en forme et design.
 - **JavaScript** : Logique du quiz (gestion des événements, vérification des réponses, suivi du score).
+
+
+## 🎮 Tester le quiz en ligne
+
+👉 [Jouer au quiz] https://yoanmln.github.io/Galacti-Quiz/
