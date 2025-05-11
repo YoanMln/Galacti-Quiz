@@ -60,3 +60,15 @@ button:hover {
   background-color: #ff69b4;
   box-shadow: 0 0 20px #ff69b4;
 }
+
+@media (hover: none) and (pointer: coarse) {
+  button:hover {
+    background-color: initial;
+    cursor: default;
+  }
+
+  #retryButton:hover {
+    background-color: initial;
+    cursor: default;
+  }
+}
