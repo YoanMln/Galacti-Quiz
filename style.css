@@ -63,16 +63,20 @@ button:hover {
 
 @media (hover: none) and (pointer: coarse) {
   button:hover {
-    background-color: #1e90ff;
-    box-shadow: 0 0 10px #1e90ff;
-    transform: none;
+    background-color: #1e90ff !important;
+    box-shadow: 0 0 10px #1e90ff !important;
+    transform: none !important;
     cursor: default;
   }
 
   #retryButton:hover {
-    background-color: #ff1493;
-    box-shadow: 0 0 10px #ff1493;
+    background-color: #ff1493 !important;
+    box-shadow: 0 0 10px #ff1493 !important;
     transform: none;
     cursor: default;
+  }
+
+  button:active {
+    opacity: 0.5;
   }
 }

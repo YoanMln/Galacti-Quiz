@@ -20,7 +20,7 @@ Avant d'entrer au **Campus Numérique in the Alps d'Annecy**, j'ai décidé de s
 J'ai utilisé **Mimo**, une plateforme interactive qui m'a permis de découvrir **JavaScript** de manière ludique et concrète.
 Grâce à ce projet, j'ai pu mettre en pratique ce que j'avais appris, notamment en manipulant les événements en JavaScript et en créant une interface utilisateur simple mais fonctionnelle.
 
-Après cette expérience, j'ai eu l'opportunité de rejoindre le **Campus Numérique in the Alps**, où je suis actuellement en formation pour devenir **développeur full-stack** 👨‍💻🌍.
+Après cette expérience, j'ai eu l'opportunité de rejoindre le **Campus Numérique in the Alps**, où je suis actuellement en formation pour devenir **développeur front-end** 👨‍💻🎨.
 
 ## 🚀 Fonctionnalités
 
